@@ -4,7 +4,7 @@
 > IMPORTANTE: almacenar informacion sensible como Secret, nunca como Environment Variable. Los valores de las variables se publican en este archivo y en el historial Git.
 
 - Repositorio: <code>aiturralde/SecretInfo</code>
-- Ultima generacion: <code>2026-10-11 09:59:59 UTC</code>
+- Ultima generacion: <code>2026-10-12 10:49:00 UTC</code>
 
 ## Environment: <code>DEV</code>
 
