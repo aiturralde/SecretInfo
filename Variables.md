@@ -4,7 +4,7 @@
 > IMPORTANTE: almacenar informacion sensible como Secret, nunca como Environment Variable. Los valores de las variables se publican en este archivo y en el historial Git.
 
 - Repositorio: <code>aiturralde/SecretInfo</code>
-- Ultima generacion: <code>2026-10-20 08:32:14 UTC</code>
+- Ultima generacion: <code>2026-10-21 08:34:18 UTC</code>
 
 ## Environment: <code>DEV</code>
 
@@ -47,6 +47,24 @@ Prevent self-review: No disponible
 | Nombre | Creado | Actualizado |
 |---|---|---|
 | <code>SECRET&#95;QA</code> | <code>2026-10-06T01:59:49Z</code> | <code>2026-10-06T01:59:49Z</code> |
+
+---
+
+## Environment: <code>copilot</code>
+
+### Aprobadores requeridos
+
+No hay aprobadores requeridos.
+
+Prevent self-review: No disponible
+
+### Variables
+
+No hay variables configuradas en este Environment.
+
+### Secrets
+
+No hay secrets configurados en este Environment.
 
 ---
 
